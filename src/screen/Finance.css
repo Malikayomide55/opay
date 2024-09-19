@@ -1,0 +1,261 @@
+.Fcon{
+	background-color:white;
+	height:100vh;
+	width:100vw;
+}
+
+.Ftop{
+	height:4vh;
+	width:100vw;
+	background-color:white;
+	font-size:25px;
+}
+.Fsls{
+	height:6vh;
+	width:100vw;
+	background-color:white;
+	font-size:18px;
+	display:flex;
+}
+.Fslsavings{
+	margin-left:22vw;
+	margin-top:2vh;
+}
+.Fslsloan{
+	margin-left:22vw;
+	margin-top:2vh;
+}
+.Fslsetting{
+	margin-left:22vw;
+	margin-top:2vh;
+}
+.Ftt{
+	height:3vh;
+	width:92vw;
+	background-color:white;
+	font-size:18px;
+	display:flex;
+	margin-left:4vw;
+	border-radius:6px;
+	justify-content:space-between;
+}
+.FP{
+	height:3vh;
+	width:92vw;
+	background-color:white;
+	font-size:18px;
+	display:flex;
+	margin-left:4vw;
+}
+.FP0{
+	margin-left:56vw;
+} 
+.Frow1{
+	height:16vh;
+	width:92vw;
+	
+	display:flex;
+	margin-left:4vw;
+	border-radius:6px;
+	margin-top:2vh;
+} 
+.Fwb{
+	height:16vh;
+	width:78vw;
+	border-radius:6px;
+	background-color:#F3FCF7; 
+}
+.FwbF{ 
+	display:flex;
+	font-size:19px;
+} 
+.FwbP{
+	margin-top:25px;
+	margin-left:5px;
+}
+.Fow{
+	height:16vh;
+	width:78vw;
+	border-radius:6px;
+	margin-left:2vw;
+	background-color:#F6F4FF;
+}
+.FowF{ 
+	display:flex;
+	font-size:19px;
+} 
+
+
+.Frow2{
+	height:16vh;
+	width:92vw;
+	
+	display:flex;
+	margin-left:4vw;
+	border-radius:6px;
+	margin-top:2vh;
+} 
+.FTarget{
+	height:16vh;
+	width:78vw;
+	border-radius:6px;
+	background-color:#F8F8FA;
+}
+.FTargetF{ 
+	display:flex;
+	font-size:19px;
+} 
+.FwbP{
+	margin-top:25px;
+	margin-left:5px;
+}
+.FSB{
+	height:16vh;
+	width:78vw;
+	border-radius:6px;
+	margin-left:2vw;
+	background-color:#F8F8FA;
+}
+.FSBF{ 
+	display:flex;
+	font-size:19px;
+} 
+
+
+
+.Frow3{
+	height:16vh;
+	width:92vw;
+	
+	display:flex;
+	margin-left:4vw;
+	border-radius:6px;
+	margin-top:2vh;
+} 
+.FF{
+	height:16vh;
+	width:78vw;
+	border-radius:6px;
+	background-color:#F8F8FA;
+}
+.FFF{ 
+	display:flex;
+	font-size:19px;
+} 
+.Fss{
+	height:16vh;
+	width:78vw;
+	border-radius:6px;
+	margin-left:2vw;
+	background-color:#F8F8FA;
+}
+.FssF{ 
+	display:flex;
+	font-size:19px;
+} 
+.Frow4{
+	height:16vh;
+	width:92vw;
+	
+	display:flex;
+	margin-left:4vw;
+	border-radius:6px;
+	margin-top:2vh;
+} 
+.FsR{
+	height:16vh;
+	width:46vw;
+	border-radius:6px;
+	background-color:#F8F8FA;
+}
+.FsRF{ 
+	display:flex;
+	font-size:19px;
+} 
+
+
+
+
+
+
+
+
+
+.options{
+	height:8vh;
+	width:100vw;
+	position:fixed;
+	bottom:0px;
+	display:flex;
+	background-color:;
+	justify-content:space-between
+}
+.Home{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:3vw;
+	background-color:;
+	align-content:center;
+}
+.Home div{
+	position:fixed;
+	bottom:0vh;
+}
+.Home material-symbols-outlined{
+	position:fixed;
+	left:3vw;
+}
+.Reward{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:21vw;
+	background-color:;
+	align-content:center;
+}
+.Reward div{
+	position:fixed;
+	bottom:0vh;
+}
+.Finance{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:43vw;
+	background-color:;
+	align-content:center;
+}
+.Finance div{
+	position:fixed;
+	bottom:0vh;
+}
+.Card{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:67vw;
+	background-color:;
+	align-content:center;
+}
+.Card div{
+	position:fixed;
+	bottom:0vh;
+}
+.Me{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:88vw;
+	background-color:;
+	align-content:center;
+}
+.Me div{
+	position:fixed;
+	bottom:0vh;
+}

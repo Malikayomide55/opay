@@ -1,0 +1,326 @@
+.Rcon{
+	background-color:#F8F8FA; 
+	height:100vh;
+	width:100vw;
+	position:fixed;
+}
+.Rtop{
+	height:5vh;
+	width:100vw;
+	background-color:#e1f5ea; 
+	display:flex;
+}
+.RRewards{
+	font-size:30px;
+	padding:3px;
+	margin-left:5px;
+}
+.Ricon{
+	height:7px;
+	width:7px;
+	margin:18px;
+	margin-left:28vh;
+}
+.CV{
+	height:10vh;
+	width:100vw;
+	background-color:#e1f5ea
+}
+.Cv{
+	height:5vh;
+	width:100vw;
+	
+	display:flex;
+}
+.Cv div{
+	margin:8px;
+	margin-top:15px;
+	margin-left:15px;
+}
+.CvVoucher{
+	margin-left:20px;
+}
+.cV{
+	height:5vh;
+	width:100vw;
+	display:flex;
+}
+.cV div{
+	
+	margin-left:19px;
+}
+.cVN{
+	padding-left:41px;
+}
+.Dailybonus{
+	height:7vh;
+	width:86vw;
+	margin-left:7vw;
+	background-color:white; 
+	display:flex;
+	border-radius:4px;
+}
+.Dailybonusicon{
+	height:5vh;
+	width:7vh;
+	
+}
+.Dailybonusicon div{
+	height:7px;
+	width:7px;
+	margin-left:25px;
+	margin-top:18px;
+	
+}
+.DbGetNow{
+	height:6vh;
+	width:12vh;
+	
+	margin-left:52px;
+}
+.DbGetNow div{
+	height:3vh;
+	width:10vh;
+	margin-left:1vh;
+	margin-top:1vh;
+	background-color:green;
+	color:white;
+	border-radius:8px;
+	align-item:center;
+	font-size:20px;
+ }
+ .DTDailybonus{
+ 	font-size:20px;
+}
+.Dbtext{
+	font-size:14px;
+}
+.DailyBonus{
+	height:3vh;
+	width:100vh;
+	font-size:20px;
+	
+}
+
+
+.Glo{
+	height:8vh;
+	width:86vw;
+	margin-left:7vw;
+	margin-top:3vh;
+	background-color:white; 
+	display:flex;
+	border-radius:4px;
+}
+.DailyBGloicon{
+	height:5vh;
+	width:7vh;
+}
+.DailyBGloicon div{
+	height:7px;
+	width:7px;
+	margin-left:25px;
+	margin-top:18px;
+}
+.DbGetNowGlo{
+	height:6vh;
+	width:12vh;
+	margin-left:52px;
+}
+.DbGetNowGlo div{
+	height:3vh;
+	width:5vh;
+	margin-left:6vh;
+	margin-top:1vh;
+	background-color:green;
+	border-radius:8px;
+	align-item:center;
+	font-size:20px;
+	color:white;
+ }
+ .DTDailybonusGlo{
+ 	font-size:20px;
+}
+.DbtextGlo{
+	font-size:14px;
+}
+
+
+.mobile{
+	height:8vh;
+	width:86vw;
+	margin-left:7vw;
+	margin-top:3vh;
+	background-color:white; 
+	display:flex;
+	border-radius:4px;
+}
+.DailyBmobileicon{
+	height:5vh;
+	width:7vh;
+	
+}
+.DailyBmobileicon div{
+	height:7px;
+	width:7px;
+	margin-left:25px;
+	margin-top:18px;
+	
+}
+.DbGetNowmobile{
+	height:6vh;
+	width:12vh;
+	
+	margin-left:52px;
+}
+.DbGetNowmobile div{
+	height:3vh;
+	width:5vh;
+	margin-left:6vh;
+	margin-top:1vh;
+	background-color:green;
+	border-radius:8px;
+	align-item:center;
+	color:white;
+	font-size:20px;
+ }
+ .DTDailybonusmobile{
+ 	font-size:20px;
+}
+.Dbtextmobile{
+	font-size:14px;
+}
+
+
+
+.MAirtime{
+	height:8vh;
+	width:86vw;
+	margin-left:7vw;
+	margin-top:3vh;
+	background-color:white; 
+	display:flex;
+	border-radius:4px;
+}
+.DailyBMAirtimeicon{
+	height:5vh;
+	width:7vh;
+	
+}
+.DailyBMAirtimeicon div{
+	height:7px;
+	width:7px;
+	margin-left:25px;
+	margin-top:18px;
+	
+}
+.DbGetNowMAirtime{
+	height:6vh;
+	width:12vh;
+	
+	margin-left:52px;
+}
+.DbGetNowMAirtime div{
+	height:3vh;
+	width:5vh;
+	margin-left:6vh;
+	margin-top:1vh;
+	background-color:green;
+	color:white;
+	border-radius:8px;
+	align-item:center;
+	font-size:20px;
+ }
+ .DTDailybonusMAirtime{
+ 	font-size:20px;
+}
+.DbtextMAirtime{
+	font-size:14px;
+}
+
+
+
+
+
+
+
+
+
+.options{
+	height:8vh;
+	width:100vw;
+	position:fixed;
+	bottom:0px;
+	display:flex;
+	background-color:;
+	justify-content:space-between
+}
+.Home{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:3vw;
+	background-color:;
+	align-content:center;
+}
+.Home div{
+	position:fixed;
+	bottom:0vh;
+}
+.Home material-symbols-outlined{
+	position:fixed;
+	left:3vw;
+}
+.Reward{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:21vw;
+	background-color:;
+	align-content:center;
+}
+.Reward div{
+	position:fixed;
+	bottom:0vh;
+}
+.Finance{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:43vw;
+	background-color:;
+	align-content:center;
+}
+.Finance div{
+	position:fixed;
+	bottom:0vh;
+}
+.Card{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:67vw;
+	background-color:;
+	align-content:center;
+}
+.Card div{
+	position:fixed;
+	bottom:0vh;
+}
+.Me{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:88vw;
+	background-color:;
+	align-content:center;
+}
+.Me div{
+	position:fixed;
+	bottom:0vh;
+}

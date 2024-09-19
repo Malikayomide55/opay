@@ -1,0 +1,69 @@
+.transaction{
+	height:100vh;
+	width:100vw;
+}
+.Top{
+	height:5vh;
+	width:100vw;
+	background-color:white;
+}
+.Top1{
+	height:5vh;
+	width:90vw;
+	background-color:white;
+	display:flex;
+	justify-content:space-between;
+	margin-left:2vh;
+	position:fixed;
+	top:0px;
+}
+.Top div{
+	margin-top:1vh;
+	color: black;
+}
+.Opts{
+	height:5vh;
+	width:98vw;
+	display:flex;
+	background-color:grey;
+	margin-top:5vh;
+	justify-content:space-around;
+}
+.Opts div{
+	margin-top:1vh;
+	color:white;
+}
+.Date{
+	height:5vh;
+	width:100vw;
+	color:black;
+	background-color:;
+}
+.Range{
+	height:3vh;
+	margin-top:1vh;
+	font-size:2vh;
+	margin-left:3vh;
+}
+.expenses{
+	display:flex;
+	height:2vh;
+	margin-top:2px;
+	margin-left:3vh;
+} 
+.expenses In{
+	font-size:14px;
+}
+.expenses In div{
+	font-size:12px;
+}
+expenses Out{
+	font-size:14px;
+	margin-left:30vh;
+}
+.expenses Out div{
+	font-size:12px;
+}
+.space{
+	width:15px;
+}

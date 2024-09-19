@@ -1,0 +1,220 @@
+.Mcon{
+	background-color:#F8F8FA; 
+	height:120vh;
+	width:100vw;
+}
+.Mtop{
+	height:6vh;
+	width:100vw;
+	
+	display:flex;
+}
+.Musericon{
+	margin-left:2vw;
+	margin-top:2vw; 
+}
+.Muser{
+	width:85vw;
+	
+}
+.Musername{
+	margin-left:2px;
+	margin-top:2px;
+	font-size:25px;
+}
+.Muserupgrade{
+	font-size:14x;
+}
+.Mseticon{
+	margin-right:2vw;
+	margin-top:2vw; 
+}
+.Mbalance{
+	height:19vh;
+	width:100vw;
+	margin-top:1vh;
+	border-radius:13px;
+	background-color:#E1F5EA;
+}
+.MbalAsset{
+	height:10vh;
+	font-size:20px;
+	padding-top:3vh; 
+	margin-left:3vw;
+}
+.MbalCashback{
+	height:19vh;
+	font-size:13px;
+	margin-left:3vw;
+}
+.Mpaying{
+	width:93vw;
+	margin-left:3vw;
+	margin-top:1vh;
+	border-radius:18px;
+	background-color:white;
+}
+.Mph{
+	display:flex;
+	margin-top:0px;
+	margin-left:3vw;
+	width:94vw;
+}
+.paying-tt{
+	width:75vw;
+	margin-top:3vh;
+	margin-left:3vw;
+}
+.paying-icon1{
+	margin-top:25px;
+	width:6vw;
+ }
+ .paying-icon2{
+ 	margin-top:25px;
+	 width:6vw;
+}
+.Mpay-text{
+	font-size:12px;
+	margin-top:0;
+}
+.Mpay-title{
+	font-size:12px;
+	margin-top:0;
+}
+
+.Mservice{
+	width:93vw;
+	margin-left:3vw;
+	margin-top:1vh;
+	border-radius:18px;
+	background-color:white;
+}
+.Mholder{
+	display:flex;
+	margin-top:0px;
+	margin-left:3vw;
+	width:94vw;
+}
+.services-th{
+	width:75vw;
+	margin-top:3vh;
+	margin-left:3vw;
+}
+.services-icon1{
+	margin-top:25px;
+	width:6vw;
+ }
+ .services-icon2{
+ 	margin-top:25px;
+	 width:6vw;
+}
+.services-text{
+	font-size:12px;
+	margin-top:0;
+}
+.services-title{
+	font-size:12px;
+	margin-top:0;
+}
+
+
+
+
+
+
+
+.Mlicense{
+	display:flex;
+	margin-top:2vh;
+	margin-bottom:8vh;
+	margin-left:13vw;
+}
+.MlicenseCBN{
+	color:blue;
+	margin-left:1vw;
+}
+.Mlicensetext{
+	margin-left:1vw;
+}
+.MlicenseNDIC{
+	color:blue;
+	margin-left:1vw;
+}
+.options{
+	height:8vh;
+	width:100vw;
+	position:fixed;
+	bottom:0px;
+	display:flex;
+	background-color:white;
+	justify-content:space-between
+}
+.Home{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:3vw;
+	background-color:;
+	align-content:center;
+}
+.Home div{
+	position:fixed;
+	bottom:0vh;
+}
+.Home material-symbols-outlined{
+	position:fixed;
+	left:3vw;
+}
+.Reward{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:21vw;
+	background-color:;
+	align-content:center;
+}
+.Reward div{
+	position:fixed;
+	bottom:0vh;
+}
+.Finance{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:43vw;
+	background-color:;
+	align-content:center;
+}
+.Finance div{
+	position:fixed;
+	bottom:0vh;
+}
+.Card{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:67vw;
+	background-color:;
+	align-content:center;
+}
+.Card div{
+	position:fixed;
+	bottom:0vh;
+}
+.Me{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:88vw;
+	background-color:;
+	align-content:center;
+}
+.Me div{
+	position:fixed;
+	bottom:0vh;
+}

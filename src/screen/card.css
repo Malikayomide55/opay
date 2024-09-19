@@ -1,0 +1,196 @@
+.Ccon{
+	background-color:#F8F8FA; 
+	height:100vh;
+	width:100vw;
+}
+
+
+.Ctop{
+	height:4vh;
+	width:94vw;
+	margin-left:3vw;
+	display:flex;
+	justify-content:space-between;
+}
+.CtopC{
+	font-size:26px;
+}
+.CtopQ{
+	margin-top:1vh;
+}
+.CvpCard{
+	height:3vh;
+	width:80vw;
+	display:flex;
+	justify-content:space-around;
+	margin-left:10vw;
+	margin-top:2vh;
+}
+.Ccimage{
+	height:25vh;
+	width:90vw;
+	background-color:grey;
+	margin-left:5vw;
+	margin-top:1vh;
+}
+.Cinstructions{
+	height:7vh;
+	width:90vw;
+	margin-left:5vw;
+	margin-top:1vh;
+	align-content:center;
+}
+.Cinfo-item{
+	display:flex;
+}
+.Cinfo-icon{
+	height:7vh;
+	width:7vh;
+	
+	align-content:center;
+}
+.Cinfo-icon div{
+	height:4vh;
+	width:4vh;
+	border-radius:100%;
+	background-color:black;
+	align-content:center;
+	margin-left:2vh;
+}
+.Cinfo-icon div div{
+	height:1vh;
+	width:1vh;
+	background-color:grey;
+}
+.Cinfo-information{
+	height:7vh;
+	width:80vw;
+	
+}
+.Cinfo-title{
+	height:2vh;
+	font-size:19px;
+	margin-top:2vh;
+}
+.Cinfo-information{
+	height:2vh;
+	margin-top:3px;
+	font-size:12px; 
+	word-wrap: break-word;
+	max-width:70vw;
+}
+
+
+.Cgetbtn{
+	height:9vh;
+	width:100vw;
+	background-color:grey;
+	position:fixed;
+	bottom:8vh;
+}
+.Ctc{
+	display:flex;
+}
+.Cgnbtn{
+	height:6vh;
+	width:80vw;
+	margin-left:10vw;
+	border-radius:9px;
+	background-color:green;
+}
+.Ctc{
+	font-size:13px;
+	margin-left:12vw;
+}
+.Ctc2{
+	margin-left:1vw;
+	color:green;
+}
+.Cgnbtn div{
+	color:white;
+	font-size:18px;
+	padding-left:27vw;
+	padding-top:13px;
+}
+
+
+
+
+.options{
+	height:8vh;
+	width:100vw;
+	position:fixed;
+	bottom:0px;
+	display:flex;
+	background-color:;
+	justify-content:space-between
+}
+.Home{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:3vw;
+	background-color:;
+	align-content:center;
+}
+.Home div{
+	position:fixed;
+	bottom:0vh;
+}
+.Home material-symbols-outlined{
+	position:fixed;
+	left:3vw;
+}
+.Reward{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:21vw;
+	background-color:;
+	align-content:center;
+}
+.Reward div{
+	position:fixed;
+	bottom:0vh;
+}
+.Finance{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:43vw;
+	background-color:;
+	align-content:center;
+}
+.Finance div{
+	position:fixed;
+	bottom:0vh;
+}
+.Card{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:67vw;
+	background-color:;
+	align-content:center;
+}
+.Card div{
+	position:fixed;
+	bottom:0vh;
+}
+.Me{
+	height:8vh;
+	width:20vw;
+	position:fixed;
+	bottom:0vh;
+	left:88vw;
+	background-color:;
+	align-content:center;
+}
+.Me div{
+	position:fixed;
+	bottom:0vh;
+}
